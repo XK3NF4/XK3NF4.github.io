@@ -80,9 +80,11 @@ En lo personal, y según muchos profesionales que rindieron el CPTS, se puede af
 ## Mercado Laboral
 Actualmente, el OSCP suele estar mejor visto por los equipos de Recursos Humanos, aunque ya existen ofertas laborales que piden CPTS. Esto pasa en parte porque el OSCP lleva más tiempo en el mercado y porque es un examen con proctoring, lo que a algunas empresas les sirve como señal rápida de “validación” del proceso.
 
-## Palabras Finales:
+## Palabras Finales
 En realidad, el hecho de que el OSCP tenga proctoring no lo exime de que pueda haber trampas (no fomento hacer trampas solo menciono la realidad). 
 
 Si eres alguien que quiere hacer el CPTS y el OSCP o incluso si solo quieres hacer el OSCP te recomiendo completar primero el path del CPTS y luego ir a por el OSCP.
 
 Y por último, si apruebas el CPTS, puedes pagar para recibir tu certificado en físico.
+
+![CPTS](/assets/img/oscpvscpts/02.PNG)
