@@ -1,0 +1,49 @@
+---
+---
+
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* Cambia el color de fondo aquí */
+#main-wrapper {
+  background-color: #0A0A0A !important;  /* Color de fondo oscuro */
+}
+
+/* Color de fondo del sidebar */
+#sidebar {
+//   background-color: #0a0a0ad2 !important;
+    background-color: #0a0a0abe !important;
+
+}
+
+// /* Color de fondo de las tarjetas de posts */
+ .card  a {
+   // background-color: red !important;
+     background-color: #1A1A1A !important;
+ }
+
+
+// //* O más general para todas las tarjetas de posts */
+// .card-wrapper .card {
+//    background-color: #ff0000 !important;
+//  }
+
+#topbar{
+     background-color: #0A0A0A !important;
+ }
+
+footer{
+     background-color: #0A0A0A !important;
+ }
+// quitar botones de negro blanco
+
+#mode-toggle {
+  display: none !important;
+}
+
+.icon-border{
+  display: none !important;
+}
