@@ -12,7 +12,7 @@ description: OffSec Certified Professional+ (OSCP+) vs HTB Certified Penetration
 
 ### IMGEN
 image:
-  path: /assets/img/oscpvscpts/01.svg
+  path: /assets/img/oscpvscpts/01.webp
   alt: OSCP+ vs CPTS
 ---
 
