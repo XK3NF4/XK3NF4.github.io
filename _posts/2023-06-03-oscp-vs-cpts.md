@@ -2,7 +2,6 @@
 title: "OSCP vs CPTS"
 date: 2026-01-02
 tagline: OSCP vs CPTS
-tagline: OSCP vs CPTS
 
 # ============ CATEGORÍAS Y TAGS ============
 categories: [Certificados]
@@ -15,7 +14,7 @@ description: OffSec Certified Professional+ (OSCP+) vs HTB Certified Penetration
 image:
   path: /assets/img/oscpvscpts/01.svg
   alt: OSCP+ vs CPTS
-og_image: /assets/img/oscpvscpts/01.svg
+og_image: /assets/img/oscpvscpts/01.png
 ---
 
 Esto pretende ser un review completamente honesto sobre las certificaciones [OSCP+ de Offensive Security](https://www.offsec.com/courses/pen-200/) y [CPTS de Hack The Box](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist), en la que veremos cuál elegir según a dónde queramos llegar y nuestros objetivos como pentesters.
