@@ -53,7 +53,7 @@ En el OSCP es común tener que complementar por tu cuenta, sobre todo en explota
 Tiene una duración total de 48 horas: 23 h 45 min de examen práctico y 24 horas adicionales para subir el reporte. Durante el examen y el proceso estás bajo proctoring. Necesitas 70 puntos minimo
 
 ### CPTS
-Tienes 7 días para completar el examen práctico y el reporte técnico, y necesitas un mínimo de 12 flags para pasar. Además no es proctored.
+Tienes 10 días para completar el examen práctico y el reporte técnico, y necesitas un mínimo de 12 flags para pasar. Además no es proctored.
 ​
 ### Importante
 El reporte es clave en ambos, si el reporte no cumple los requisitos (faltan pasos, evidencias o no es reproducible), puedes perder puntos o incluso desaprobar, aunque hayas conseguido los objetivos técnicos. En CPTS se exige un reporte con más requisitos, lo que lo hace más exigente.
