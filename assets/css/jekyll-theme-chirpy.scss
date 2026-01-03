@@ -12,6 +12,10 @@
   background-color: #0A0A0A !important;  /* Color de fondo oscuro */
 }
 
+// barra derecha fondo color negro
+ #toc-wrapper::before, .toc-border-cover {
+   background: #0A0A0A !important;  /* Color de fondo oscuro */
+ }
 /* Color de fondo del sidebar */
 #sidebar {
 //   background-color: #0a0a0ad2 !important;
