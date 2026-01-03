@@ -87,4 +87,4 @@ Si eres alguien que quiere hacer el CPTS y el OSCP o incluso si solo quieres hac
 
 Y por último, si apruebas el CPTS, puedes pagar para recibir tu certificado en físico.
 
-![CPTS](/assets/img/oscpvscpts/02.PNG)
+![CPTS](/assets/img/oscpvscpts/02.png)
