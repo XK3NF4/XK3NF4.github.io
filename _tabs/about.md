@@ -5,17 +5,10 @@ order: 4
 ---
 
 
-# Pentester y Red Team Operator
+# Red Team Operator & Adversary Emulator
 
-Apasionado por el hacking y el desarrollo ofensivo.
-
+Pienso como un adversario mientras estoy en la mente del defensor.
 ![iss](/assets/img/about/iss.gif)
-
-Hobbies:
-
-- Hacking
-- Leer
-- Chess
 
 ## Certificaciones:
 
@@ -124,7 +117,11 @@ Hobbies:
 </div>
 
 
+Hobbies:
 
+- Hacking
+- Leer
+- Chess
 
 
 
