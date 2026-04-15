@@ -8,7 +8,7 @@ categories: [Red Team]
 tags: [OPSEC, phishing, C2, mod_rewrite]
 
 # ============ CONTENIDO Y VISUALIZACIÓN ============
-description: Infraestructura invisible - Redirección táctica en operaciones de C2 y Phishing.
+description: Tu no me puedes ver - Redirecciones en ejercicios de Red Team.
 
 ### IMGEN
 image:
