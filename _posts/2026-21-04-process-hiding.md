@@ -16,7 +16,6 @@ image:
   alt: Process Hiding: Direct Kernel Object Manipulation
 ---
 
-## Introducción
 Bien, este es uno de los temas que más me apasionan, podría escribir por la eternidad sobre esto, pero hoy hablaremos de una de las técnicas que usan los rootkits para ocultar procesos de software que corre en modo usuario y monitorea procesos.
 
 Herramientas como Task Manager, Process Explorer, Process Hacker, etc. La forma en que enumeran los procesos es recorriendo el `ActiveProcessLinks`.
