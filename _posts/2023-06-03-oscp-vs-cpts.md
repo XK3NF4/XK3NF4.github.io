@@ -5,7 +5,7 @@ tagline: OSCP vs CPTS
 
 # ============ CATEGORÍAS Y TAGS ============
 categories: [Certificados]
-tags: [Certificados, OSCP+, CTPS]
+tags: [Certificados, OSCP+, CPTS]
 
 # ============ CONTENIDO Y VISUALIZACIÓN ============
 description: OffSec Certified Professional+ (OSCP+) vs HTB Certified Penetration Testing Specialist (HTB CPTS)

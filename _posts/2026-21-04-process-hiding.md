@@ -99,7 +99,7 @@ eq ffff88869dcb5080+0x448 0x0
 eq ffff88869dcb5080+0x448+0x008 0x0
 ```
 
->para el demo los ponemos en NULL, pero en la práctica se hace self-referencing para evitar romperlo
+>Para el demo los ponemos en NULL, pero en la práctica se hace self-referencing para evitar romperlo
 
 Validamos los cambios:
 ```
@@ -117,4 +117,4 @@ Como podemos ver, ocultamos exitosamente nuestro proceso `cmd.exe`.
 
 ![OCULTAR PROCESO](/assets/img/process-hiding/09.png)
 
-eso es todo nerds.
+Eso es todo nerds.
