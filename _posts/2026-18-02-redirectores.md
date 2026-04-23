@@ -4,8 +4,8 @@ date: 2026-03-18
 tagline: Redirectores
 
 # ============ CATEGORÍAS Y TAGS ============
-categories: [Red Team]
-tags: [OPSEC, phishing, C2, mod_rewrite]
+categories: [RedTeam]
+tags: [OPSEC, phishing, C2, mod_rewrite, RedTeam]
 
 # ============ CONTENIDO Y VISUALIZACIÓN ============
 description: Tu no me puedes ver - Redirecciones en ejercicios de Red Team.
