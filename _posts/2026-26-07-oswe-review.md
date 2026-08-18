@@ -16,7 +16,7 @@ image:
   alt: WEB-300 OSWE Review
 ---
 
-Hola nerds, comenzando en mi camino de ser OSCE3 se me dio la oportunidad de cursar el curso [OSWE - Offensive Security Web Expert](https://www.offsec.com/courses/web-300/) de OffSec, este curso es considerado por muchos el curso de hacking web más avanzado, también lo compararé con el curso de [CWEE - Advanced Web Penetration Testing Certification](https://academy.hackthebox.com/preview/certifications/htb-certified-web-exploitation-expert) de HackTheBox con la finalidad de hacer una comparación sincera de cuál es más avanzado y consideraciones que una persona podría tener tanto costos, como es valorado actualmente en el mercado del hacking sobre todo ahora con el avance de la IA, sujétense de los lentes nerd que comenzamos!
+Hola nerds, comenzando en mi camino de ser OSCE3 se me dio la oportunidad de cursar [OSWE - Offensive Security Web Expert](https://www.offsec.com/courses/web-300/) de OffSec, este curso es considerado por muchos el curso de hacking web más avanzado, también lo compararé con el curso de [CWEE - Advanced Web Penetration Testing Certification](https://academy.hackthebox.com/preview/certifications/htb-certified-web-exploitation-expert) de HackTheBox con la finalidad de hacer una comparación sincera de cuál es más avanzado y consideraciones que una persona podría tener tanto costos, como es valorado actualmente en el mercado del hacking sobre todo ahora con el avance de la IA, sujétense de los lentes nerd que comenzamos!
 
 ![OSWE](/assets/img/oswereview/01.webp)
 
