@@ -1,7 +1,7 @@
 ---
 title: "OSWE Review - Offensive Security Web Expert"
 date: 2026-07-26
-tagline: Process Hiding 
+tagline: OSWE Review 
 
 # ============ CATEGORÍAS Y TAGS ============
 categories: [Certificados]
