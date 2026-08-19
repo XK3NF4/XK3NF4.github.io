@@ -5,7 +5,7 @@ tagline: OSWE Review
 
 # ============ CATEGORÍAS Y TAGS ============
 categories: [Certificados]
-tags: [Hacking WEB, OSCE3]
+tags: [Hacking WEB,OSWE ,OSCE3]
 
 # ============ CONTENIDO Y VISUALIZACIÓN ============
 description: Reviewing OSWE camino al OSCE3
