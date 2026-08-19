@@ -39,6 +39,10 @@ Siempre lee la guía del examen OSWE porque se actualiza constantemente, tambié
 - No te da una reverse shell pero muestra por consola la flag local.txt y proof.txt
 - Te da una reverse shell y al momento de tomar tu captura para tu reporte leas con el comando cat las flags
 
+
+![OSWE](/assets/img/oswereview/03.png)
+
+
 ## OSWE vs CWEE
 Considero que esta comparativa puede abordar tranquilamente otra entrada en mi blog así que solo daré la siguiente afirmación:
 OSWE es la cert más avanzada en hacking web que hay y CWEE es la cert más difícil de hacking web que hay.
