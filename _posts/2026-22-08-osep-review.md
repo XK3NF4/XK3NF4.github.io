@@ -47,6 +47,9 @@ Bien, acá OffSec dice textualmente que se requiere una certificación como OSCP
 ## Cómo prepararme
 Bueno lo comenté un antes, realmente la mejor forma de prepararte antes de ingresar es tener conocimientos de AD como los podría dar un CPTS, CRTP o simplemente hacer muchas máquinas de HackTheBox de Active Directory a conciencia (entendiendo el por qué de las cosas) e ir con conocimiento de un lenguaje de programación, te diré que aprendas C antes que C#, te preguntarás por qué? si el curso está impartido mayormente en C# y mi respuesta automática es que la forma correcta de aprender es C y assembly y la forma correcta de desplegar las cosas es C#, C++, Rust, etc y por último ir entendiendo cómo funcionan los procesos en Windows, qué es un PE file y ya podrías comenzar el curso sin problema.
 
+![OSEP cert](/assets/img/osepreview/04.png)
+
+
 ## Cómo abordar el examen
 Es un examen largo realmente, si estás atascado en un ataque y no puedes continuar a pesar de que lo intentaste de varias formas diferentes reinicia el laboratorio, prueba en otra máquina, etc. Algo que aprendí acá en esta certi es que si tienes mucho tiempo y estás cansado, duerme. Agendé mi examen a las 2pm, a partir de la 1am me quedé 4 horas atascado en algo hasta las 4am, entonces me obligué a dormir, pedí al proctor que pausara mi cámara y por protocolo pausó mi VPN, luego de descansar retomé el examen y en lo que estaba atascado lo resolví en 10 minutos, así que descansen. Por último no se maten con cosas muy complejas, sean simples pero efectivos.
 
