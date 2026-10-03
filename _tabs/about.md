@@ -10,11 +10,6 @@ Desde pequeño quise entender cómo funcionan las cosas y eso me llevó a conver
 <div class="certs-grid">
 
   <div class="cert-card">
-    <img src="/assets/img/certs/OSED.webp" alt="OSED">
-    <p>Offensive Security Exploit Developer (OSED)</p>
-  </div>
-
-  <div class="cert-card">
     <img src="/assets/img/certs/oswe.webp" alt="OSWE">
     <p>Offensive Security Web Expert (OSWE)</p>
   </div>
@@ -30,18 +25,8 @@ Desde pequeño quise entender cómo funcionan las cosas y eso me llevó a conver
   </div>
 
   <div class="cert-card">
-    <img src="/assets/img/certs/cetp.webp" alt="CETP">
-    <p>Certified Evasion Techniques Professional (CETP)</p>
-  </div>
-
-  <div class="cert-card">
     <img src="/assets/img/certs/crtp.webp" alt="CRTP">
     <p>Certified Red Team Professional (CRTP)</p>
-  </div>
-
-  <div class="cert-card">
-    <img src="/assets/img/certs/maldev.png" alt="Maldev">
-    <p>Malware Development</p>
   </div>
 
   <div class="cert-card">
